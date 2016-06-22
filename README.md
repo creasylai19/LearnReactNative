@@ -1,10 +1,14 @@
 ##React Native入门
 这个项目主要整理RN新手从入门到上手的一些资料，希望能给大家带来一些帮助
 
-###1.React Native开发的前置知识
-* JavaScript
+###0.已有的一些轮子
+1. [深入浅出 React Native：使用 JavaScript 构建原生应用](https://zhuanlan.zhihu.com/p/19996445)
 
- 1. [W3School JavaScript教程](http://www.w3school.com.cn/js/)
+###1.React Native开发的前置知识
+* JavaScript（了解基础，DOM/BOM暂时不需要学习）
+
+ 1. [Mozilla官方JavaScript文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+ 2. [W3School JavaScript教程](http://www.w3school.com.cn/js/)
 
 * ECMAScript 6
 
